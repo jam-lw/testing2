@@ -1,5 +1,5 @@
 <script>
-	export let color = "primary"  ;
+	export let color = "primary";
 </script>
 
 <style>
@@ -30,4 +30,6 @@
 	}
 </style>
 
-<div class="{color}"><slot /></div>
+<div class="{color}">
+	<slot />
+</div>

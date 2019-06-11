@@ -1,7 +1,7 @@
 <script>
 	import Container from "./Container.svelte";
 	import Header from "./Header.svelte";
-	import {Items, Item} from "./items";
+	import { Items, Item } from "./items";
 
 	export let name = "Potato";
 	export let header_color = "secondary";
