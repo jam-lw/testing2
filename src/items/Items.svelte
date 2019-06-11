@@ -1,12 +1,12 @@
 <style>
-  div {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    width: 100%;
-  }
+	div {
+		display: flex;
+		justify-content: center;
+		align-items: flex-start;
+		width: 100%;
+	}
 </style>
 
 <div>
-  <slot />
+	<slot />
 </div>
